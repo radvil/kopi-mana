@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Version": "1.0",
+    "Id": "hahaha-dark-opaque",
+    "Name": "Hahaha Dark Opaque",
+    "Category": "Aurorae",
+    "Description": "A Nordish-Like aurorae theme",
+    "EnabledByDefault": true,
+    "License": "GPLv3",
+    "Dependencies": [],
+    "Authors": [
+      {
+        "Email": "radvil.linux@gmail.com",
+        "Name": "Radvil"
+      }
+    ]
+  }
+}
