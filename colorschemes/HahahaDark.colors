@@ -110,7 +110,7 @@ ForegroundPositive=43,233,138
 ForegroundVisited=174,129,255
 
 [KDE]
-contrast=10
+contrast=9
 
 [WM]
 activeBackground=45,42,46
