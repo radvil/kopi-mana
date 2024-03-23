@@ -100,7 +100,7 @@
        cy="-8"
        cx="8"
        id="path859-5"
-       style="fill:#5e81ac;fill-opacity:1;stroke:none;stroke-width:4.56667" />
+       style="fill:#CE907D;fill-opacity:1;stroke:none;stroke-width:4.56667" />
   </g>
   <g
      id="buttonSymbol"
@@ -205,7 +205,7 @@
        xlink:href="#buttonSymbol"
        y="0"
        x="0"
-       style="opacity:0.7;fill:#1e2d62;fill-opacity:1" />
+       style="opacity:0.7;fill:#94463E;fill-opacity:1" />
   </g>
   <g
      id="pressed-inactive-center"
