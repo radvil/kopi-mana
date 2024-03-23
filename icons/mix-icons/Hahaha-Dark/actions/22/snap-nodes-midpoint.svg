@@ -4,7 +4,7 @@
         color:#dedede;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }</style>
     </defs>
     <path id="path4" class="ColorScheme-Text" d="m3 11v1h7v-1zm9 0v1h7v-1z" fill="currentColor"/>

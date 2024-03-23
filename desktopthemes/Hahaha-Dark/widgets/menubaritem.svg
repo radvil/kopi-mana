@@ -4,12 +4,12 @@
             stop-color:#eff0f1;
         }
         .ColorScheme-ButtonHover {
-            color:#93cee9;
-            stop-color:#93cee9;
+            color:#FDE9E5;
+            stop-color:#FDE9E5;
         }
         .ColorScheme-ButtonFocus{
-            color:#3daee9;
-            stop-color:#3daee9;
+            color:#F29CA8;
+            stop-color:#F29CA8;
         }</style>
  <g id="normal-center" transform="translate(-174,-62)">
   <path d="m180 68h22v22h-22z" fill="transparent" fill-rule="evenodd"/>

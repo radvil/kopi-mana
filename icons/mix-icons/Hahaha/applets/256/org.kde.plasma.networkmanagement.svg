@@ -8,16 +8,16 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -26,7 +26,7 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       </style>
   </defs>
@@ -56,7 +56,7 @@
      id="rect8909"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:#fdbc4b;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#ebcb8b;fill-opacity:1;stroke:none"
      d="m 197,90 0,-7 -2,0 3,-3 3,3 -2,0 0,7 -2,0 z"
      id="rect8909-6"
      inkscape:connector-curvature="0" />

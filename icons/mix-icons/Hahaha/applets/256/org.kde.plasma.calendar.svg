@@ -7,16 +7,16 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -25,7 +25,7 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       </style>
   </defs>

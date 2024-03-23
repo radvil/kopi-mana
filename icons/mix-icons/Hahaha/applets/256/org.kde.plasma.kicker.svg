@@ -54,16 +54,16 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -72,7 +72,7 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       </style>
     <linearGradient
@@ -155,7 +155,7 @@
          offset="0"
          id="stop4302-0-4" />
       <stop
-         style="stop-color:#9b59b6;stop-opacity:1"
+         style="stop-color:#b48ead;stop-opacity:1"
          offset="1"
          id="stop4304-6" />
     </linearGradient>

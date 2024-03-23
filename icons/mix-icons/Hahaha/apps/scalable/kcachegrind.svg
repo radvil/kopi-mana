@@ -4,7 +4,7 @@
         <stop offset="1" stop-color="#a1a9b1"/>
     </linearGradient>
     <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="25" x2="38" y1="15.303711" y2="28.303711">
-        <stop offset="0" stop-color="#3daee9"/>
+        <stop offset="0" stop-color="#F29CA8"/>
         <stop offset="1" stop-color="#2980b9"/>
     </linearGradient>
     <circle cx="24.000011" cy="23.999973" fill="#232629" fill-rule="evenodd" r="14"/>

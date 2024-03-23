@@ -34,8 +34,8 @@
     <linearGradient id="l" x1="14" x2="14" y1="33" y2="35" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
     <linearGradient id="m" x1="14" x2="14" y1="28" y2="30" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
     <linearGradient id="n" x1="23.5" x2="27" y1="36" y2="42" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#3daee9" offset="0"/>
-        <stop stop-color="#3daee9" stop-opacity="0" offset="1"/>
+        <stop stop-color="#F29CA8" offset="0"/>
+        <stop stop-color="#F29CA8" stop-opacity="0" offset="1"/>
     </linearGradient>
     <linearGradient id="o" x1="21.619" x2="20.9722" y1="9" y2="36.985" gradientUnits="userSpaceOnUse">
         <stop stop-color="#537594" offset="0"/>
@@ -46,7 +46,7 @@
         <stop stop-color="#0e957d" offset="1"/>
     </linearGradient>
     <linearGradient id="q" x1="21.5" x2="21.5" y1="22" y2="37" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#3daee9" offset="0"/>
+        <stop stop-color="#F29CA8" offset="0"/>
         <stop stop-color="#1cdc9a" offset="1"/>
     </linearGradient>
     <linearGradient id="r">
@@ -79,7 +79,7 @@
     <linearGradient id="C" x1="28.4573" x2="28.4573" y1="30.3839" y2="41.9233" gradientUnits="userSpaceOnUse">
         <stop stop-color="#e74c3c" offset="0"/>
         <stop stop-color="#da4453" offset=".5"/>
-        <stop stop-color="#9b59b6" offset="1"/>
+        <stop stop-color="#b48ead" offset="1"/>
     </linearGradient>
     <linearGradient id="D" x1="28.5" x2="28.5" y1="29.8623" y2="39" gradientUnits="userSpaceOnUse">
         <stop stop-color="#fa8e6c" offset="0"/>

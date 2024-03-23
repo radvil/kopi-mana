@@ -8,7 +8,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -17,10 +17,10 @@
         color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -29,10 +29,10 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       </style>
     <g id="fcitx-quanpin-libpinyin" transform="translate(22,22.000008) translate(-22,-22)">

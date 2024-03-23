@@ -11,7 +11,7 @@
   </metadata>
   <namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1050" id="namedview8" showgrid="false" inkscape:zoom="2.6074563" inkscape:cx="152.45321" inkscape:cy="88.364359" inkscape:window-x="0" inkscape:window-y="30" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
   <defs id="defs4">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#3daee9;}.ColorScheme-Text{color:#4d4d4d;}.ColorScheme-ViewHover{color:#93cee9;}.ColorScheme-ViewFocus{color:#3daee9;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover { color: #93cee9; } </style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#F29CA8;}.ColorScheme-Text{color:#4d4d4d;}.ColorScheme-ViewHover{color:#FDE9E5;}.ColorScheme-ViewFocus{color:#F29CA8;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover { color: #FDE9E5; } </style>
     <linearGradient gradientTransform="matrix(1,0,0,0.99967455,0,0.176455)" gradientUnits="userSpaceOnUse" y2="499.78421" x2="414.57144" y1="541.79797" x1="414.57144" id="linearGradient4178-2" xlink:href="#linearGradient4172-0" inkscape:collect="always"/>
     <linearGradient id="linearGradient4172-0">
       <stop style="stop-color:#f89406;stop-opacity:1" offset="0" id="stop4174-4-7"/>
@@ -19,7 +19,7 @@
     </linearGradient>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4172-5" id="linearGradient4765" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.99967455,0,0.17645)" x1="414.57144" y1="541.79797" x2="414.57144" y2="499.78421"/>
     <linearGradient id="linearGradient4172-5" inkscape:collect="always">
-      <stop id="stop4174-6" offset="0" style="stop-color:#3daee9;stop-opacity:1"/>
+      <stop id="stop4174-6" offset="0" style="stop-color:#F29CA8;stop-opacity:1"/>
       <stop id="stop4176-6" offset="1" style="stop-color:#6cc1ef;stop-opacity:1"/>
     </linearGradient>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4172-5" id="linearGradient4320" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.99967455,0,0.17645)" x1="414.57144" y1="541.79797" x2="414.57144" y2="499.78421"/>

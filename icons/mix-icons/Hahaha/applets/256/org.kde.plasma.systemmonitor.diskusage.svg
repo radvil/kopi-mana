@@ -53,16 +53,16 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -71,7 +71,7 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       </style>
   </defs>
@@ -107,7 +107,7 @@
      height="133.07344"
      width="6"
      id="rect6599"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <rect
@@ -127,7 +127,7 @@
      height="185"
      width="6"
      id="rect6599-9"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <rect
@@ -147,7 +147,7 @@
      height="25"
      width="6"
      id="rect6599-9-5"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
 </svg>

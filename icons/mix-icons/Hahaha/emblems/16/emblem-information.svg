@@ -3,7 +3,7 @@
         type="text/css"
         id="current-color-scheme">
         .ColorScheme-Highlight {
-            color:#3daee9;
+            color:#F29CA8;
         }
     </style>
     <rect style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" height="8" rx="1" width="8"/>

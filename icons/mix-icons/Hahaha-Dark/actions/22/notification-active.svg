@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-NegativeText { color: #da4453; } </style>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-ButtonFocus{color:#F29CA8;}.ColorScheme-NegativeText { color: #da4453; } </style>
     <g id="notification-active" transform="translate(-1 39) translate(0,-40)">
         <path d="m1 1h22v22h-22z" fill="none"/>
         <path d="m6.3457031 3.345703a7.9999995 7.9999995 0 0 0 -2.3457031 5.654297h1a7 7 0 0 1 2.0527344-4.947266zm11.3085939 0-.707031.707031a7 7 0 0 1 2.052734 4.947266h1a7.9999995 7.9999995 0 0 0 -2.345703-5.654297zm-1.416016 1.416016-.708984.708984a5 5 0 0 1 1.470703 3.529297h1a6 6 0 0 0 -1.761719-4.238281zm-8.472656.003906a6 6 0 0 0 -1.765625 4.234375h1a5 5 0 0 1 1.4667969-3.533203z" class="ColorScheme-Text" fill="currentColor" fill-rule="evenodd"/>

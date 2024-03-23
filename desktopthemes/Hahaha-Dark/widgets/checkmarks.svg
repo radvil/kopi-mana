@@ -9,8 +9,8 @@
         stop-color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#F29CA8;
+        stop-color:#F29CA8;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -21,12 +21,12 @@
         stop-color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#FDE9E5;
+        stop-color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#F29CA8;
+        stop-color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -37,21 +37,21 @@
         stop-color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#FDE9E5;
+        stop-color:#FDE9E5;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#F29CA8;
+        stop-color:#F29CA8;
       }</style>
   <linearGradient id="ay" x1="18" x2="32" y1="38.362" y2="38.362" gradientUnits="userSpaceOnUse" xlink:href="#hightlight"/>
   <linearGradient id="hightlight" osb:paint="solid">
-   <stop stop-color="#5887fc" offset="0"/>
+   <stop stop-color="#A83D6C" offset="0"/>
   </linearGradient>
   <linearGradient id="be" x1="24" x2="24" y1="45.362" y2="32.253" gradientTransform="matrix(1 0 0 .99168 0 .3776)" gradientUnits="userSpaceOnUse" xlink:href="#dark_checked_bg"/>
   <linearGradient id="dark_checked_bg" osb:paint="gradient">
-   <stop stop-color="#3458c0" offset="0"/>
-   <stop stop-color="#3d67e3" offset="1"/>
+   <stop stop-color="#EA7B96" offset="0"/>
+   <stop stop-color="#F29CA8" offset="1"/>
   </linearGradient>
   <linearGradient id="av" x1="51.611" x2="80.996" y1="141.02" y2="141.02" gradientTransform="matrix(.47644 0 0 .48411 -23.59 -60.272)" gradientUnits="userSpaceOnUse" xlink:href="#hightlight"/>
   <linearGradient id="bg" x1="51.611" x2="80.996" y1="141.02" y2="141.02" gradientTransform="matrix(.47644 0 0 .44953 -23.59 -54.895)" gradientUnits="userSpaceOnUse" xlink:href="#dark_checked_bg"/>

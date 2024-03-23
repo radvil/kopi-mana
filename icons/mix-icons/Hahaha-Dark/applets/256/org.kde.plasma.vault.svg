@@ -11,7 +11,7 @@
   </metadata>
   <namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="980" inkscape:window-height="972" id="namedview8" showgrid="false" inkscape:zoom="2.6074563" inkscape:cx="91.195402" inkscape:cy="115.69267" inkscape:window-x="93" inkscape:window-y="106" inkscape:window-maximized="0" inkscape:current-layer="svg2"/>
   <defs id="defs4">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#3daee9;}.ColorScheme-Text{color:#4d4d4d;}.ColorScheme-ViewHover{color:#93cee9;}.ColorScheme-ViewFocus{color:#3daee9;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover { color: #93cee9; } </style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#F29CA8;}.ColorScheme-Text{color:#4d4d4d;}.ColorScheme-ViewHover{color:#FDE9E5;}.ColorScheme-ViewFocus{color:#F29CA8;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover { color: #FDE9E5; } </style>
     <linearGradient gradientTransform="matrix(1,0,0,0.99967455,0,0.176455)" x2="0" gradientUnits="userSpaceOnUse" y2="499.78421" y1="541.79797" xlink:href="#linearGradient4172-5" id="linearGradient4178-3-3"/>
     <linearGradient id="linearGradient4172-5">
       <stop id="stop4174-6" style="stop-color:#3e3e3e"/>

@@ -11,7 +11,7 @@
         color:#31363b;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -20,10 +20,10 @@
         color:#314045;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -32,10 +32,10 @@
         color:#31363b;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       </style>
     <linearGradient

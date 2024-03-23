@@ -6,7 +6,7 @@
     <linearGradient id="b" x1="17.304167" x2="17.304167" y1="285.00004" y2="257.00004" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
     <linearGradient id="c" x1="24" x2="24" y1="294" y2="257" gradientTransform="matrix(1 0 0 .97619045 0 5.999999)" gradientUnits="userSpaceOnUse">
         <stop stop-color="#1d99f3" offset="0"/>
-        <stop stop-color="#3daee9" offset="1"/>
+        <stop stop-color="#F29CA8" offset="1"/>
     </linearGradient>
     <linearGradient id="d" x1="24.183335" x2="24.183335" y1="285.00004" y2="257.00004" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
     <linearGradient id="e" x1="29.588079" x2="29.588079" y1="281.11707" y2="290.73599" gradientTransform="matrix(.99950003 0 0 .99937512 -5.128573 -248.81628)" gradientUnits="userSpaceOnUse">
@@ -21,7 +21,7 @@
     <linearGradient id="h" x1="32.114254" x2="32.114254" y1="263.09515" y2="271.94937" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
     <linearGradient id="i" x1="90.319038" x2="120.33868" y1="-162.79909" y2="139.84253" gradientTransform="matrix(.26445105 0 0 .264418 .022498 .028116)" gradientUnits="userSpaceOnUse">
         <stop stop-color="#2980b9" offset="0"/>
-        <stop stop-color="#3daee9" stop-opacity="0" offset="1"/>
+        <stop stop-color="#F29CA8" stop-opacity="0" offset="1"/>
     </linearGradient>
     <linearGradient id="j" x1="24" x2="24" y1="294" y2="257" gradientTransform="matrix(.99999998 0 0 .97619046 0 5.999995)" gradientUnits="userSpaceOnUse">
         <stop stop-color="#27ae60" offset="0"/>
@@ -64,7 +64,7 @@
             <path d="m22.999998 263h3v1h-3z"/>
         </g>
         <path d="m3.9794912 285.00024v.99477c0 .34307.035138.67748.089889 1.00453h39.84023c.05475-.32705.08989-.66146.08989-1.00453v-.99477z" fill="#34495e"/>
-        <path d="m3.9794912 285.00024v0.99477c0 2e-3 -2e-6 4e-3 0 6e-3h40.020008c2e-6 -2e-3 0-4e-3 0-6e-3v-0.99477z" fill="#3daee9"/>
+        <path d="m3.9794912 285.00024v0.99477c0 2e-3 -2e-6 4e-3 0 6e-3h40.020008c2e-6 -2e-3 0-4e-3 0-6e-3v-0.99477z" fill="#F29CA8"/>
         <path d="m29 254.91602a.50005.50005 0 1 0 0 1h5a.50005.50005 0 1 0 0-1z" fill="#233240"/>
     </g>
 </svg>

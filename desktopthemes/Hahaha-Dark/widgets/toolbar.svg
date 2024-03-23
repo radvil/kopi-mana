@@ -57,8 +57,8 @@
         stop-color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#F29CA8;
+        stop-color:#F29CA8;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -69,12 +69,12 @@
         stop-color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#FDE9E5;
+        stop-color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#F29CA8;
+        stop-color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -85,12 +85,12 @@
         stop-color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#FDE9E5;
+        stop-color:#FDE9E5;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#F29CA8;
+        stop-color:#F29CA8;
       }</style>
   </defs>
   <rect

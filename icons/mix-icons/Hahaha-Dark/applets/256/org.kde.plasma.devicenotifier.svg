@@ -11,7 +11,7 @@
   </metadata>
   <namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1046" id="namedview8" showgrid="false" inkscape:zoom="2.6074563" inkscape:cx="91.195402" inkscape:cy="84.819665" inkscape:window-x="0" inkscape:window-y="34" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
   <defs id="defs4">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#3daee9;}.ColorScheme-Text{color:#4d4d4d;}.ColorScheme-ViewHover{color:#93cee9;}.ColorScheme-ViewFocus{color:#3daee9;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover { color: #93cee9; } </style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#F29CA8;}.ColorScheme-Text{color:#4d4d4d;}.ColorScheme-ViewHover{color:#FDE9E5;}.ColorScheme-ViewFocus{color:#F29CA8;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover { color: #FDE9E5; } </style>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4159" id="linearGradient4158-8" x1="409.57144" y1="543.79797" x2="409.57144" y2="503.798" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0271756,0,0,1,-394.97889,-499.79799)"/>
     <linearGradient inkscape:collect="always" id="linearGradient4159">
       <stop style="stop-color:#2a2c2f;stop-opacity:1" offset="0" id="stop4161"/>
@@ -122,6 +122,6 @@
     <path transform="translate(7,1037.3622)" id="path4141-6" d="M 2,1 1,2 3,4 1,6 2,7 4,5 6,7 7,6 5,4 7,2 6,1 4,3 2,1 Z" style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" inkscape:connector-curvature="0"/>
   </g>
   <path inkscape:connector-curvature="0" style="opacity:0.3;fill:currentColor;fill-opacity:1;stroke:none" d="m 72.000004,83.999996 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 l 136.999996,0 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -136.999996,0 z m 0,63.000004 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 L 209,153 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -136.999996,0 z m 0,61 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 L 209,214 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -136.999996,0 z" id="rect6597"/>
-  <rect ry="3" y="69" x="-90.000023" height="133.07344" width="6" id="rect6599" style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" transform="matrix(0,-1,1,0,0,0)" class="ColorScheme-Highlight"/>
+  <rect ry="3" y="69" x="-90.000023" height="133.07344" width="6" id="rect6599" style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none" transform="matrix(0,-1,1,0,0,0)" class="ColorScheme-Highlight"/>
   <path inkscape:connector-curvature="0" style="opacity:1;fill:#474747;fill-opacity:1;stroke:none" d="m 72.000004,147 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 L 127,153 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -54.999996,0 z m 0,61 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 l 104.597656,0 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -104.597656,0 z" id="rect6599-6"/>
 </svg>

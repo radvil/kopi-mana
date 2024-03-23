@@ -62,7 +62,7 @@
     <rect width="32" x="392.57" y="507.8" fill="url(#c)" rx="0" height="28"/>
     <path opacity=".2" fill="url(#d)" fill-rule="evenodd" d="m393.57 533.8l30-20 1 1v21h-29z"/>
     <rect width="32" x="392.57" y="507.8" fill="#566069" height="4"/>
-    <rect width="32" x="392.57" y="511.8" fill="#3daee9" height="1"/>
+    <rect width="32" x="392.57" y="511.8" fill="#F29CA8" height="1"/>
     <rect width="30" x="393.57" y="513.8" fill="#ffffff" height="20"/>
     <rect width="2" x="421.57" y="508.8" fill="#eff0f1" rx="1" height="2"/>
    </g>

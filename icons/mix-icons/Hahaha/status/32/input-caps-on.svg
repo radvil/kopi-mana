@@ -7,7 +7,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -16,10 +16,10 @@
         color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -28,10 +28,10 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }</style>
     <g id="input-caps-on" transform="translate(19,48.000003) translate(-38,-160)">
         <rect x="19" y="112" width="32" height="32" opacity=".00100002"/>

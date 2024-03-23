@@ -10,7 +10,7 @@
   </linearGradient>
   <linearGradient id="c" y1="12" y2="8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-2)">
    <stop stop-color="#713e88"/>
-   <stop offset="1" stop-color="#9b59b6"/>
+   <stop offset="1" stop-color="#b48ead"/>
   </linearGradient>
   <linearGradient id="d" y1="4" y2="8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.92857 0 0 1 1.714 0)">
    <stop stop-color="#da4453"/>

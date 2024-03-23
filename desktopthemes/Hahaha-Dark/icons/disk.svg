@@ -75,10 +75,10 @@
         color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#363636;
@@ -87,10 +87,10 @@
         color:#efefef;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-NegativeText{
         color:#e74c3c;
@@ -153,7 +153,7 @@
          style="opacity:0.35" />
     </g>
     <path
-       style="fill:#f47750"
+       style="fill:#d08770"
        d="m 56.5,10 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,7.5 1,7.5 0.55228,0 1,-6.9477 1,-7.5 0,-0.5523 -0.44772,-1 -1,-1 z m 0,9.5 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z"
        id="path4168" />
   </g>
@@ -175,15 +175,15 @@
     <path
        id="path4198"
        d="M 72.5 15 A 5.5 5.5 0 0 0 67 20.5 A 5.5 5.5 0 0 0 72.5 26 A 5.5 5.5 0 0 0 78 20.5 A 5.5 5.5 0 0 0 72.5 15 z M 72.5 16.5 A 4 4 0 0 1 76.5 20.5 A 4 4 0 0 1 72.5 24.5 A 4 4 0 0 1 68.5 20.5 A 4 4 0 0 1 72.5 16.5 z M 72.5 18 A 2.5 2.5 0 0 0 70 20.5 A 2.5 2.5 0 0 0 72.5 23 A 2.5 2.5 0 0 0 75 20.5 A 2.5 2.5 0 0 0 72.5 18 z "
-       style="fill:#fdbc4b;fill-opacity:1" />
+       style="fill:#ebcb8b;fill-opacity:1" />
     <path
        id="path4202"
        d="M 75,20.5 A 2.5,2.5 0 0 1 72.5,23 v 1.5 a 4,4 0 0 0 4,-4 z"
-       style="opacity:0.15;fill:#fdbc4b;fill-opacity:1" />
+       style="opacity:0.15;fill:#ebcb8b;fill-opacity:1" />
     <path
        id="path4204"
        d="m 72.5,16.5 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 V 23 A 2.5,2.5 0 0 1 70,20.5 2.5,2.5 0 0 1 72.5,18 v -0.5 z"
-       style="opacity:0.35;fill:#fdbc4b;fill-opacity:1" />
+       style="opacity:0.35;fill:#ebcb8b;fill-opacity:1" />
   </g>
   <g
      id="disk-quota-high">

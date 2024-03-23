@@ -54,16 +54,16 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-ViewHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#F29CA8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -72,7 +72,7 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#FDE9E5;
       }
       </style>
     <linearGradient
@@ -501,7 +501,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#F29CA8;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242"
      width="19.684334"
      height="19.684334"
@@ -516,7 +516,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none" />
   <rect
      style="color:#eff0f1;fill:currentColor;fill-opacity:0.00392157;stroke:none"
      id="rect6327-9"
@@ -544,10 +544,10 @@
      height="19.684462"
      width="19.684462"
      id="rect6331-2"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789855;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#F29CA8;stroke-width:1.15789855;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      class="ColorScheme-Highlight"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none"
      id="rect6333-5"
      width="13.894782"
      height="13.894782"
@@ -1004,7 +1004,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#F29CA8;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242-9"
      width="19.684334"
      height="19.684334"
@@ -1019,7 +1019,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244-5"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none" />
   <rect
      ry="2.8"
      rx="2.8"
@@ -1050,7 +1050,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#F29CA8;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242-8"
      width="19.684334"
      height="19.684334"
@@ -1065,7 +1065,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244-0"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none" />
   <rect
      rx="3.4480841"
      y="177.11194"
@@ -1076,7 +1076,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#F29CA8;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242-3-9"
      width="19.684334"
      height="19.684334"
@@ -1091,7 +1091,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244-7-1"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#F29CA8;fill:currentColor;fill-opacity:1;stroke:none" />
   <g
      transform="matrix(0.55,0,0,0.55,-138.43244,-101.13493)"
      id="layer1-51"
@@ -1175,7 +1175,7 @@
        height="17.000162"
        width="17.000162"
        id="rect10242-3-9-8"
-       style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#F29CA8;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Background" />
   </g>
   <g
