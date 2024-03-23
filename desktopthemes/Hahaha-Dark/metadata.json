@@ -1,0 +1,19 @@
+{
+  "X-Plasma-API": "5.0",
+  "KPlugin": {
+    "Version": "1.0.0",
+    "Id": "hahaha-dark",
+    "Name": "Hahaha-Dark",
+    "Description": "Kopi Mana dark theme for plasma 6",
+    "Category": "desktoptheme",
+    "EnabledByDefault": true,
+    "License": "GPL-3.0",
+    "Website": "",
+    "Authors": [
+      {
+        "Name": "Radvil",
+        "Email": "radvil.linux@gmail.com"
+      }
+    ]
+  }
+}

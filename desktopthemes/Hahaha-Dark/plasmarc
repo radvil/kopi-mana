@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Hahaha-Dark
+X-KDE-PluginInfo-Version=1.0.0
+X-KDE-PluginInfo-Author=Radvil
+X-KDE-PluginInfo-Category=desktoptheme
+X-KDE-PluginInfo-Email=radvil.linux@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL-3.0
+X-KDE-PluginInfo-Name=Hahaha-Dark
+X-KDE-PluginInfo-Website=
+
+[Wallpaper]
+defaultWallpaperTheme=Hahaha-Dark
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWidth=1920
+
+[AdaptiveTransparency]
+enabled = true
