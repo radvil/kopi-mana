@@ -47,7 +47,7 @@
   </linearGradient>
   <linearGradient id="d" x1="50.27" x2="50.27" y1="15.081" y2="14.023" gradientTransform="translate(-335.74 -50.258) scale(7.3154)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#404041" offset="0"/>
-   <stop stop-color="#1e1e1e" offset="1"/>
+   <stop stop-color="#1c1d22" offset="1"/>
   </linearGradient>
   <linearGradient id="m" x1="50.27" x2="50.27" y1="15.081" y2="14.023" gradientTransform="matrix(7.3154,0,0,7.3154,-335.74,-50.258)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
   <linearGradient id="n" x1="242.09" x2="173.32" y1="131.04" y2="131.04" gradientTransform="matrix(.3932 0 0 .3932 -58.986 .793)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>

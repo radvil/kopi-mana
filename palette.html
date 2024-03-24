@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color selections</title>
+  </head>
+  <style>
+    body {
+      height: 100svh;
+      width: 100svw;
+      background: white;
+      font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Oxygen,
+        Ubuntu,
+        Cantarell,
+        "Open Sans",
+        "Helvetica Neue",
+        sans-serif;
+      font-size: 14px;
+    }
+    .container {
+      height: inherit;
+      width: inherit;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+      height: 70svh;
+      height: 50svw;
+    }
+    .slot {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      font-size: 2em;
+      height: 100%;
+      width: 200px;
+    }
+    .black {
+      background-color: #1c1d22;
+      color: white;
+    }
+    .dark-0 {
+      background-color: #202027;
+      color: white;
+    }
+    .dark-1 {
+      background-color: #292832;
+      color: white;
+    }
+    .dark-2 {
+      background-color: #30303b;
+      color: white;
+    }
+    .dark-3 {
+      background-color: #6c6168;
+      color: white;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <div class="slot black">
+        <span class="label">#1c1d22</span>
+      </div>
+      <div class="slot dark-0">
+        <span class="label">#202027</span>
+      </div>
+      <div class="slot dark-1">
+        <span class="label">#292832</span>
+      </div>
+      <div class="slot dark-2">
+        <span class="label">#30303b</span>
+      </div>
+      <div class="slot dark-3">
+        <span class="label">#6c6168</span>
+      </div>
+    </div>
+  </body>
+</html>

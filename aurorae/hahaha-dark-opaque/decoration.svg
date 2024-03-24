@@ -551,7 +551,7 @@
        transform="translate(264.99994,6)"
        width="100%"
        height="100%"
-       style="fill:#383439;fill-opacity:1" />
+       style="fill:#30303b;fill-opacity:1" />
     <rect
        class="ColorScheme-Background"
        y="-20"
@@ -606,7 +606,7 @@
          transform="matrix(0,1,1,0,0,0)" />
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#1e1e1e;fill-opacity:1;stroke-width:0.970142"
+         style="opacity:1;fill:#1c1d22;fill-opacity:1;stroke-width:0.970142"
          id="rect1010"
          width="79.999825"
          height="1"
@@ -727,7 +727,7 @@
          x="0"
          width="100%"
          height="100%"
-         style="opacity:1;fill:#1e1e1e;fill-opacity:1" />
+         style="opacity:1;fill:#1c1d22;fill-opacity:1" />
       <use
          id="use1445"
          xlink:href="#g1223"
@@ -792,7 +792,7 @@
          sodipodi:nodetypes="ssccssccs" />
       <path
          id="path1012"
-         style="opacity:1;fill:#1e1e1e;fill-opacity:1"
+         style="opacity:1;fill:#1c1d22;fill-opacity:1"
          d="m -211,503 c -6,0 -10,4 -10,10 l 3e-5,39 h 1 L -220,513 c 0,-5.4 3.6,-9 9,-9 h 46.00003 v -1 z"
          sodipodi:nodetypes="ccccccccc" />
       <path
@@ -818,7 +818,7 @@
          xlink:href="#rect1240"
          id="use2399" />
       <use
-         style="fill:#383439;fill-opacity:1"
+         style="fill:#30303b;fill-opacity:1"
          height="100%"
          width="100%"
          x="0"
@@ -846,7 +846,7 @@
          xlink:href="#g2459"
          id="use2461" />
       <use
-         style="fill:#383439;fill-opacity:1"
+         style="fill:#30303b;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#path961"
@@ -875,7 +875,7 @@
          xlink:href="#rect1154-1"
          id="use2433" />
       <use
-         style="opacity:1;fill:#1e1e1e;fill-opacity:1"
+         style="opacity:1;fill:#1c1d22;fill-opacity:1"
          height="100%"
          width="100%"
          x="0"
@@ -903,7 +903,7 @@
          width="100%"
          height="100%" />
       <use
-         style="fill:#383439;fill-opacity:1"
+         style="fill:#30303b;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#rect938"
@@ -1067,7 +1067,7 @@
          width="100%"
          height="100%" />
       <use
-         style="fill:#282828;fill-opacity:1"
+         style="fill:#202027;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#path961"
@@ -1096,7 +1096,7 @@
          width="100%"
          height="100%" />
       <use
-         style="fill:#282828;fill-opacity:1"
+         style="fill:#202027;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#rect973"
@@ -1114,7 +1114,7 @@
          height="100%" />
     </g>
     <use
-       style="fill:#282828;fill-opacity:1"
+       style="fill:#202027;fill-opacity:1"
        height="100%"
        width="100%"
        transform="translate(626.99999,6)"
@@ -1134,7 +1134,7 @@
          width="100%"
          height="100%" />
       <use
-         style="opacity:1;fill:#1e1e1e;fill-opacity:1"
+         style="opacity:1;fill:#1c1d22;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#path989"
@@ -1163,7 +1163,7 @@
          width="100%"
          height="100%" />
       <use
-         style="opacity:1;fill:#1e1e1e;fill-opacity:1"
+         style="opacity:1;fill:#1c1d22;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#rect949"
@@ -1194,7 +1194,7 @@
          class="ColorScheme-Background" />
       <rect
          transform="rotate(90)"
-         style="opacity:1;fill:#1e1e1e;fill-opacity:1;stroke-width:3.47611"
+         style="opacity:1;fill:#1c1d22;fill-opacity:1;stroke-width:3.47611"
          id="rect1014"
          width="1"
          height="144.99991"
@@ -1221,7 +1221,7 @@
          width="100%"
          height="100%" />
       <use
-         style="fill:#282828;fill-opacity:1"
+         style="fill:#202027;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#rect938"

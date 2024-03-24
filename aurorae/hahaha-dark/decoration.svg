@@ -77,11 +77,11 @@
        inkscape:collect="always"
        id="linearGradient1010">
       <stop
-         style="stop-color:#383439;stop-opacity:1"
+         style="stop-color:#30303b;stop-opacity:1"
          offset="0"
          id="stop1006" />
       <stop
-         style="stop-color:#1e1e1e;stop-opacity:0.74901962"
+         style="stop-color:#1c1d22;stop-opacity:0.74901962"
          offset="1"
          id="stop1008" />
     </linearGradient>
@@ -677,7 +677,7 @@
          transform="scale(-1,1)" />
     </g>
     <use
-       style="fill:#383439;fill-opacity:1"
+       style="fill:#30303b;fill-opacity:1"
        height="100%"
        width="100%"
        transform="translate(264.99994,6)"
@@ -745,7 +745,7 @@
          class="ColorScheme-Background" />
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.75;fill:#1e1e1e"
+         style="opacity:0.75;fill:#1c1d22"
          id="rect941"
          width="79.999825"
          height="1"
@@ -873,7 +873,7 @@
          id="use1441"
          style="opacity:0.45" />
       <use
-         style="opacity:0.75;fill:#1e1e1e;fill-opacity:1"
+         style="opacity:0.75;fill:#1c1d22;fill-opacity:1"
          height="100%"
          width="100%"
          x="0"
@@ -935,7 +935,7 @@
          x="0"
          width="100%"
          height="100%"
-         style="fill:#383439;fill-opacity:1" />
+         style="fill:#30303b;fill-opacity:1" />
       <use
          id="use2403"
          xlink:href="#g1215"
@@ -964,7 +964,7 @@
          xlink:href="#path961"
          y="0"
          x="0"
-         style="fill:#383439;fill-opacity:1" />
+         style="fill:#30303b;fill-opacity:1" />
       <use
          height="100%"
          width="100%"
@@ -992,7 +992,7 @@
          x="0"
          width="100%"
          height="100%"
-         style="opacity:0.75;fill:#1e1e1e;fill-opacity:1" />
+         style="opacity:0.75;fill:#1c1d22;fill-opacity:1" />
       <use
          id="use2437"
          xlink:href="#g1219"
@@ -1021,7 +1021,7 @@
          xlink:href="#rect938"
          y="0"
          x="0"
-         style="fill:#383439;fill-opacity:1" />
+         style="fill:#30303b;fill-opacity:1" />
       <use
          height="100%"
          width="100%"
@@ -1185,7 +1185,7 @@
          xlink:href="#path961"
          y="0"
          x="0"
-         style="fill:#282828;fill-opacity:1" />
+         style="fill:#202027;fill-opacity:1" />
       <use
          height="100%"
          width="100%"
@@ -1214,7 +1214,7 @@
          xlink:href="#rect973"
          y="0"
          x="0"
-         style="fill:#282828;fill-opacity:1" />
+         style="fill:#202027;fill-opacity:1" />
       <use
          height="100%"
          width="100%"
@@ -1232,7 +1232,7 @@
        transform="translate(626.99999,6)"
        width="100%"
        height="100%"
-       style="fill:#282828;fill-opacity:1" />
+       style="fill:#202027;fill-opacity:1" />
     <g
        id="decoration-inactive-bottomleft"
        transform="translate(-9.9999847,-5)">
@@ -1252,7 +1252,7 @@
          xlink:href="#path989"
          y="0"
          x="0"
-         style="opacity:0.75;fill:#1e1e1e;fill-opacity:1" />
+         style="opacity:0.75;fill:#1c1d22;fill-opacity:1" />
       <use
          height="100%"
          width="100%"
@@ -1281,7 +1281,7 @@
          xlink:href="#rect949"
          y="0"
          x="0"
-         style="opacity:0.75;fill:#1e1e1e;fill-opacity:1" />
+         style="opacity:0.75;fill:#1c1d22;fill-opacity:1" />
       <use
          height="100%"
          width="100%"
@@ -1331,7 +1331,7 @@
          xlink:href="#rect938"
          y="0"
          x="0"
-         style="fill:#282828;fill-opacity:1" />
+         style="fill:#202027;fill-opacity:1" />
       <use
          height="100%"
          width="100%"
